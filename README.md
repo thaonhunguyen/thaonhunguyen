@@ -17,9 +17,5 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thaonhunguyen&theme=black-ice&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     <a href="https://github.com/thaonhunguyen"><img alt="Nhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thaonhunguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/thaonhunguyen"><img alt="Nhu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thaonhunguyen&theme=react-dark" /></a>
-
-    <!--     <a href="https://github.com/thaonhunguyen">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nhu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thaonhunguyen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a> -->
 </p>
 
